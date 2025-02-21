@@ -24,7 +24,7 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
    npm install
    ```
 
-3. Create a [.env] file in the root directory and add your OpenAI API key:
+3. Create a `.env` file in the root directory and add your OpenAI API key:
 
    ```env
    API_KEY=your_openai_api_key
