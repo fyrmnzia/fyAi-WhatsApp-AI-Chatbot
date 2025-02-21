@@ -14,7 +14,7 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/whatsapp-ai-bot.git
+   git clone https://github.com/fyrmnzia/fyAi-WhatsApp-AI-Chatbot.git
    cd whatsapp-ai-bot
    ```
 
