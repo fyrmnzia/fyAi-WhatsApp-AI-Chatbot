@@ -9,6 +9,13 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
 - A WhatsApp account
 - OpenAI API key
 
+## Dependencies
+
+- openai [(Read Documentation)](https://platform.openai.com/docs/api-reference/introduction)
+- whatsapp-web.js [(Read Documentation)](https://docs.wwebjs.dev/)
+- qrcode-terminal [(Read Documentation)](https://www.npmjs.com/package/qrcode-terminal)
+- dotenv [(Read Documentation)](https://www.dotenv.org/docs/)
+
 ## Installation
 
 1. Clone the repository:
@@ -44,5 +51,13 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
 
 ## Project Structure
 
-- [server.js](http://_vscodecontentref_/1): Main file that initializes the WhatsApp client and handles messages.
-- [package.json](http://_vscodecontentref_/2): Project configuration and dependencies.
+- [server.js](https://github.com/fyrmnzia/fyAi-WhatsApp-AI-Chatbot/blob/main/server.js): Main file that initializes the WhatsApp client and handles messages.
+- [package.json](https://github.com/fyrmnzia/fyAi-WhatsApp-AI-Chatbot/blob/main/package.json): Project configuration and dependencies.
+
+## Suggestion
+
+start the bot by using `pm2` in the terminal, so that the bot is always active (the device must remain on and connected). [Get started with pm2](https://pm2.keymetrics.io/)
+
+## Thank You
+
+Thank you for using fyAI-WhatsApp AI Chatbot. I hope it helps you in your projects!
