@@ -1,4 +1,4 @@
-# WhatsApp AI Bot
+# fyAI-Whatsapp AI Chatbot
 
 This project is a WhatsApp bot that uses OpenAI to respond to user queries. The bot is built using `whatsapp-web.js` and `openai` libraries.
 
@@ -24,7 +24,7 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
    npm install
    ```
 
-3. Create a [.env](http://_vscodecontentref_/0) file in the root directory and add your OpenAI API key:
+3. Create a [.env] file in the root directory and add your OpenAI API key:
 
    ```env
    API_KEY=your_openai_api_key
@@ -46,7 +46,3 @@ This project is a WhatsApp bot that uses OpenAI to respond to user queries. The 
 
 - [server.js](http://_vscodecontentref_/1): Main file that initializes the WhatsApp client and handles messages.
 - [package.json](http://_vscodecontentref_/2): Project configuration and dependencies.
-
-```
-
-```
